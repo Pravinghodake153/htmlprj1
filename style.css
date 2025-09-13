@@ -13,7 +13,7 @@ nav{
     top:3px;
     color:rgb(227, 13, 231);
     position: fixed;
-    width:1000px;
+    width:950px;
     height: 90px;
 }
 #home{
@@ -32,7 +32,7 @@ a{
      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .main{
-    width: 1010px;
+    width: 958px;
     border-radius: 60px;
     margin:auto;
     border: 5px solid rgb(255, 205, 227);
